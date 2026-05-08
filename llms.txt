@@ -1,0 +1,9 @@
+# Newport Residences
+
+> Newport Residences — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/newportresidences/
+
+## Pages
+
+- [Newport Residences](https://singaporenewproperty.github.io/newportresidences/): Newport Residences property information.
